@@ -2,6 +2,9 @@
 
 ![enter image description here](https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png){:height="36px" width="36px"}.
 
+<img src="https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png" alt="Your image title" width="250"/>
+
+
 If you are looking for **experienced positions**: 
 
 - If you are **really** interested in Affirm and you find a position that **really** matches your experience, let us talk! Please click this [referral link](https://grnh.se/8ec8f9fd3us), find up to three positions, send them to affirm.refer.job@gmail.com, with your linkedin profile link, resume, and 3rd person introduction of yourself. I will follow up with you. I would be more than willing to answer your questions about Affirm. 
