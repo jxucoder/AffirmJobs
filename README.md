@@ -2,6 +2,9 @@
 
 <img src="https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png" alt="Your image title" width="250"/>
 
+- What is Affirm? 
+
+Affirm is a "buy now, pay later" fintech company, founded by PayPal’s Co-Founder Max Levchin. Our mission is: deliver honest financial products that improve lives. Recently, we closed a [new deal with Shopify](https://www.fintechfutures.com/2020/07/max-levchins-affirm-lands-shopify-buy-now-pay-later-deal/#:~:text=The%20partnership,launch%20%E2%80%9Clater%20this%20year%E2%80%9D.), launched [split pay (4 interest-free payment)](https://www.affirm.com/press/releases/affirm-series-g-and-biweekly-payment-option), and raised [$500M series G](https://www.bizjournals.com/sanfrancisco/news/2020/09/17/affirm-raises-500-million-in-fresh-funding.html)
 
 If you are looking for **experienced positions**: 
 
