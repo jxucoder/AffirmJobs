@@ -25,7 +25,6 @@ Check out Quora question [What is it like to work at Affirm](https://www.quora.c
 
 - For **Software Engineer, New Grad 2021**, please apply here: [referral link](https://grnh.se/c48d8f7c3us) and message me on [LinkedIn](https://www.linkedin.com/in/jiaruixu/) indicating you have applied through my link.
 
-- For **Software Engineer, New Grad 2021**, please apply here: [referral link](https://grnh.se/c48d8f7c3us) and message me on [LinkedIn](https://www.linkedin.com/in/jiaruixu/) indicating you have applied through my link.
 
 To know more about Affirm, please read the following: 
 
