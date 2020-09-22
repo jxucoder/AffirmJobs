@@ -1,7 +1,7 @@
 <img src="https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png" alt="Your image title" width="250"/>
 
 ### Affirm is hiring
-
+updated: 9/22/2020
 
 **What is Affirm?** 
 
