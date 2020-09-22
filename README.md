@@ -2,9 +2,18 @@
 
 <img src="https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png" alt="Your image title" width="250"/>
 
-- What is Affirm? 
+
+**What is Affirm? 
 
 Affirm is a "buy now, pay later" fintech company, founded by PayPal’s Co-Founder Max Levchin. Our mission is: deliver honest financial products that improve lives. Recently, we closed a [new deal with Shopify](https://www.fintechfutures.com/2020/07/max-levchins-affirm-lands-shopify-buy-now-pay-later-deal/#:~:text=The%20partnership,launch%20%E2%80%9Clater%20this%20year%E2%80%9D.), launched [split pay (4 interest-free payment)](https://www.affirm.com/press/releases/affirm-series-g-and-biweekly-payment-option), and raised [$500M series G](https://www.bizjournals.com/sanfrancisco/news/2020/09/17/affirm-raises-500-million-in-fresh-funding.html)
+
+**What's it like to work at Affirm?
+
+Our values are ```People come first```, ```No fine print```, ```Simpler is better```, ```It’s on us```, ```Push the envelope```. 
+
+We believe that diversity & inclusion (D&I) work is holistic and extends to our customers and retail partners. Check out this [D&I report](https://www.affirm.com/downloads/2019_Affirm_diversity_and_inclusion_report.pdf) or visit [D&I website](https://www.affirm.com/diversity-inclusion)
+
+Check out Quora question [What is it like to work at Affirm](https://www.quora.com/Whats-it-like-to-work-at-Affirm) or [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Affirm-EI_IE823564.11,17.htm) for more information. 
 
 If you are looking for **experienced positions**: 
 
