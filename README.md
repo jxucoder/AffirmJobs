@@ -1,7 +1,5 @@
 ## 2020, Affirm is hiring!
 
-![enter image description here](https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png){:height="36px" width="36px"}.
-
 <img src="https://cdn-assets.affirm.com/images/black_logo-transparent_bg.png" alt="Your image title" width="250"/>
 
 
